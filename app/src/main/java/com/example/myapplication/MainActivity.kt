@@ -18,10 +18,10 @@ class MainActivity : AppCompatActivity() {
             this,
             listOf(
 
-                Mood(resources.getColor(R.color.blue, null), "Angry"),
-                Mood(resources.getColor(R.color.purple, null), "Angry"),
-                Mood(resources.getColor(R.color.green, null), "Angry"),
-                Mood(resources.getColor(R.color.darkred, null), "Angry")
+                Mood(resources.getColor(R.color.blue, null), "Color1"),
+                Mood(resources.getColor(R.color.purple, null), "Color2"),
+                Mood(resources.getColor(R.color.green, null), "Color3"),
+                Mood(resources.getColor(R.color.darkred, null), "Color4")
 
 
                 /*
